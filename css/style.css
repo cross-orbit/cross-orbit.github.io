@@ -278,10 +278,10 @@ p
 /* start newsletter */
 #newsletter
     {
-        background: url('../images/newsletter-bg.jpg') center center;
+        background: url('../images/hero1.png') center center;
         background-size: cover;
         background-repeat: no-repeat;
-        color: #ffffff;
+        color: #d8d8d8;
         text-align: center;
         padding-top: 120px;
         padding-bottom: 120px;
