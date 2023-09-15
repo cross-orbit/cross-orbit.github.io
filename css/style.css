@@ -8,11 +8,11 @@ http://www.tooplate.com/view/2081-solution
 
 body
 	{
-		background: #180909;
+		background: #0e0505;
         font-family: 'Raleway', sans-serif;
 		font-weight: 400;
         position: relative;
-        color: rgb(118, 137, 156);
+        color: rgb(153, 178, 204);
 	}
 
 h2, h3, h4
@@ -38,7 +38,7 @@ p
 /* start nagivation */
 .navbar-default
     {
-        background: #311010;
+        background: #0e0505;
         border: none;
         box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
         margin: 0 !important;
@@ -57,12 +57,12 @@ p
     }
 .navbar-default .navbar-nav li a:hover
     {
-        color: #975a21;
+        color: #c4742a;
     }
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #975a21;
+  color: #c4742a;
   background-color: transparent;
 }
 .navbar-default .navbar-toggle
@@ -139,10 +139,10 @@ p
 }
 .flexslider .btn
 {
-    background: #975a21;
+    background: #703a07;
     border-radius: 0;
     border: 2px solid transparent;
-    color: rgb(118, 137, 156);
+    color: rgb(148, 172, 196);
     font-weight: bold;
     margin: 40px 0 0 0;
     -webkit-transition: all 0.4s ease-in-out;
@@ -153,8 +153,8 @@ p
 }
 .flexslider .btn:hover,
 .flexslider .btn:focus {
-    background: rgb(118, 137, 156);;
-    color: #975a21;
+    background: rgb(148, 172, 196);
+    color: #703a07;
     border: 2px solid transparent;
 }
 
